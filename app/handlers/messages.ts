@@ -1,6 +1,6 @@
-import AwsInterface from './aws-interface';
+import Interface from './interface';
 
-class MessageController extends AwsInterface {
+class MessageController extends Interface {
 
 }
 
